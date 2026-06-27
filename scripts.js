@@ -1,4 +1,4 @@
 document.querySelector('.copy-email').addEventListener('click', () => {
-  navigator.clipboard.writeText('abhinavshar06@gmail.com');
+  navigator.clipboard.writeText('abhinavsharmaofficial48@gmail.com');
   alert('Email copied to clipboard!');
 });
